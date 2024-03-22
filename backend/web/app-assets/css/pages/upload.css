@@ -1,0 +1,14 @@
+.styled-div{
+    position: absolute;
+    top: 15%;
+    right: 30%;
+}
+.div-index {
+    background-color: hsl(0, 0%, 100%);
+    padding: 50px;
+    border: 3px box #8f8c8c;
+    height: fit-content;
+    box-shadow: 0 0 5px rgba(143, 140, 140, 0.5); /* Adjust the shadow color and size as needed */
+
+
+}
